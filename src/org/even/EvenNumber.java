@@ -12,10 +12,11 @@ public class EvenNumber {
 			System.out.println("The entered number is even number:"+i);
 			
 		} else {
-			System.out.println("The entered number is not even number:"+i);
+			System.out.println("The entered number is odd number:"+i);
 
 		}
 }
+	
 }
 		
 		
