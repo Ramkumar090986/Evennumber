@@ -13,15 +13,19 @@ public class EvenNumber {
 			System.out.println("The entered number is even number:"+i);
 			
 		} else {
-			System.out.println("The entered number is not even number:"+i);
+			System.out.println("The entered number is odd number:"+i);
 
 		}
 
 }
+<<<<<<< HEAD
+	
+=======
 	public void testmethod() {
 		System.out.println("Test Method");
 
 	}
+>>>>>>> 121a398bd18d76493319b551900e1ee1927310a9
 }
 		
 		
