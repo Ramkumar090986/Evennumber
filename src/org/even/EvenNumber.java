@@ -18,14 +18,12 @@ public class EvenNumber {
 		}
 
 }
-<<<<<<< HEAD
-	
-=======
+
 	public void testmethod() {
 		System.out.println("Test Method");
 
 	}
->>>>>>> 121a398bd18d76493319b551900e1ee1927310a9
+
 }
 		
 		
