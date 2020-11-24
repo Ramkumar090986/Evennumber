@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class EvenNumber {
 	public static void main(String[] args) {
+		
 		Scanner s1=new Scanner(System.in);
 		
 		System.out.println("Enter the Even number:");
@@ -15,8 +16,16 @@ public class EvenNumber {
 			System.out.println("The entered number is odd number:"+i);
 
 		}
+
 }
+<<<<<<< HEAD
 	
+=======
+	public void testmethod() {
+		System.out.println("Test Method");
+
+	}
+>>>>>>> 121a398bd18d76493319b551900e1ee1927310a9
 }
 		
 		
